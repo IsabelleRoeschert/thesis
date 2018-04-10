@@ -15,4 +15,5 @@ explanation of plots
 [4] minor important
 ## appendix
 
-
+I want to thank my family and friends...
+and github.com. It is great 
